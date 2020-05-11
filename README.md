@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tsubik/ionic2-geofence) 
+
 # Ionic2 geofence sample project
 
 Sample project using [cordova geofence plugin](https://github.com/cowbell/cordova-plugin-geofence) built with Ionic2 framework
